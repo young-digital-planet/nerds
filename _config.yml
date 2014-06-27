@@ -16,7 +16,7 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter: ydp_intl
   facebook: Young.Digital.Planet
-  github: 
+  github: young-digital-planet
   linkedin:
   # For Google Authorship https://plus.google.com/authorship
   google_plus: https://plus.google.com/115642038496796565181
@@ -34,6 +34,8 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
+  - title: Meet us
+    url: /events/
   - title: Our Planet
     url: http://ydp.eu
     external: true
@@ -41,8 +43,8 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Warsaw
 future:      true
-pygments:    true
-#highlighter: pygments
+#pygments:    true
+highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
@@ -63,4 +65,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "README.md", "LICENSE", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "README.md", "LICENSE", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "nbproject"]
