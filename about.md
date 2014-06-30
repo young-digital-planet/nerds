@@ -12,7 +12,7 @@ image:
 
 ## We're nerds
 
-also we're YDP's Software Department crew.
+also we're [YDP's](http://ydp.eu) Software Department crew.
 
 We're working with several technologies, like PHP, Java, Javascript, Flex, databases (SQL or noSQL).
 
