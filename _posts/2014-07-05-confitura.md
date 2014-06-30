@@ -2,7 +2,7 @@
 layout: post
 title: "Confitura 2014"
 tags: [Confitura, JAVA]
-excerpt: "Confitura to największa bezpłatna konferencja dla programistów Java w Europie i największe tego typu wydarzenie w Polsce. 5 lipca tego roku na kampusie Uniwersytetu Warszawskiego odbędzie się już siódma edycja naszej konferencji. Z roku na rok rozwijamy się i gościmy coraz większą liczbę pasjonatów programowania, rok temu było ich ponad 1000. W tym roku spodziewamy się prawie 1200 osób, dla których przygotowaliśmy 5 równoległych ścieżek z prawie 30 wykładami."
+description: "Confitura to największa bezpłatna konferencja dla programistów Java w Europie i największe tego typu wydarzenie w Polsce. 5 lipca tego roku na kampusie Uniwersytetu Warszawskiego odbędzie się już siódma edycja naszej konferencji. Z roku na rok rozwijamy się i gościmy coraz większą liczbę pasjonatów programowania, rok temu było ich ponad 1000. W tym roku spodziewamy się prawie 1200 osób, dla których przygotowaliśmy 5 równoległych ścieżek z prawie 30 wykładami."
 category: events
 image:
   feature: confitura.jpg
@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-Wśród prelegentów jest Główny Nerd YDP, Kuba Marchwicki.
+**Wśród prelegentów jest Główny Nerd YDP, Kuba Marchwicki.**
 
 Opowie o programowaniu JEE'isha bez stresu.
 

@@ -17,7 +17,7 @@ description: "Do you want meet us? It's easy - we're participate in many events 
                     <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
                 </span>
             </a>
-            <div class="excerpt">{{post.excerpt}}</div>
+            <div class="excerpt">{{post.description}}</div>
         </article>
     </li>
     {% endfor %}

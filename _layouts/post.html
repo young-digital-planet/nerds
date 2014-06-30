@@ -45,8 +45,8 @@
             <!-- /.social-share -->{% endif %}
       </footer>
       <div class="entry-content">
-         {% if page.excerpt %}
-         <div class="excerpt">{{page.excerpt}}</div>
+         {% if page.description %}
+         <div class="excerpt">{{page.description}}</div>
          {% endif %}
         {{ content }}
         {% if site.disqus_shortname and page.comments %}<div id="disqus_thread"></div><!-- /#disqus_thread -->{% endif %}
